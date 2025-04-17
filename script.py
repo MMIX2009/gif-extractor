@@ -44,7 +44,7 @@ if uploaded_gif:
             with open(frame_path, "rb") as f:
                 image_bytes = f.read()
             with cols[i % 5]:
-                st.image(image_bytes, caption=f"Frame {i}", use_column_width=True)
+                st.image(image_bytes, caption=f"Frame {i}", use_container_width=True)
 
         # Create ZIP in memory
         zip_buffer = io.BytesIO()
