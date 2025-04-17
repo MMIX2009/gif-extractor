@@ -1,13 +1,14 @@
-# Free Animation and GIF Resources
+# 🎞️ Free Animation and GIF Resources
 
-## General GIF Search Engines
-- [Pixabay GIFs](https://pixabay.com/gifs/search/gif/)
-- [Giphy - Free GIFs](https://giphy.com/explore/Free)
-- [Tenor - Download GIFs](https://tenor.com/search/download-gifs)
-- [GIFGIFs](https://gifgifs.com/)
+## 🔍 General GIF Search Engines
+- 🖼️ **Pixabay** – [GIF Search](https://pixabay.com/gifs/search/gif/)
+- 🎉 **Giphy** – [Free GIFs Collection](https://giphy.com/explore/Free)
+- 🌀 **Tenor** – [Downloadable GIFs](https://tenor.com/search/download-gifs)
+- 🧩 **GIFGIFs** – [GIF Archive](https://gifgifs.com/)
 
-## Animation Libraries and Marketplaces
-- [MotionElements](https://www.motionelements.com/)
-- [Creazilla - Animations](https://creazilla.com/section/animation)
-- [Freepik - Animated GIFs](https://www.freepik.com/free-photos-vectors/animated-gif)
-- [IconScout - Free Lottie Animations](https://iconscout.com/free-lottie-animations)
+## 🎨 Animation Libraries & Marketplaces
+- 🎬 **MotionElements** – [Animation & Video Market](https://www.motionelements.com/)
+- 🧑‍🎨 **Creazilla** – [Free Animations](https://creazilla.com/section/animation)
+- 🖌️ **Freepik** – [Animated GIF Vectors & Assets](https://www.freepik.com/free-photos-vectors/animated-gif)
+- ⚙️ **IconScout** – [Free Lottie Animations](https://iconscout.com/free-lottie-animations)
+
